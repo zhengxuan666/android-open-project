@@ -640,6 +640,11 @@ APP示例：Wordpress Android，Google Analytics
 文档介绍：https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. EasyAndroidAnimations  
+简单的自定义动画
+项目地址：https://github.com/2359media/EasyAndroidAnimations
+
+
 #### 十五、UI Style  
 不同样式的系统UI风格，如IOS、Bootstrap风格
    
